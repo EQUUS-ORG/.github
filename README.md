@@ -1,4 +1,4 @@
-##About
+## About
 
 This is common space for all work on Project EQUUS. Breakdown of repositories included
 
